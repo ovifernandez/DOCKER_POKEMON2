@@ -29,5 +29,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# No ignorar los archivos .jar en la carpeta target
+!/target/
+
 ### VS Code ###
 .vscode/

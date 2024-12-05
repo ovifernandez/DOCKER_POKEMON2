@@ -8,7 +8,7 @@ public class Pokemon {
     private String tipo1;
     private String tipo2;
     private int total;
-    private int hp;
+    private int hp; 
     private int attack;
     private int defense;
     private int speedAttack;
